@@ -7,7 +7,7 @@ from flask import Flask, request, jsonify
 from threading import Thread
 
 # === CẤU HÌNH BẮT BUỘC ===
-TOKEN = "MTQ1MjI5Mzg4MzE5ODQ0MzY0Mw.G5HMCx.o1XOJmf90uG8GT_Bfdn3pJaw9n3TcYZ23RtW9E" 
+TOKEN = "MTQ1MjI5Mzg4MzE5ODQ0MzY0Mw.GEjuu4.3Zrm1Filux62t93yfmchlSS1x0Nq5L0hrJQ8m0" 
 ADMIN_ID = 1195292985416503347  # Đã điền ID Discord của bạn
 LOG_CHANNEL_ID = 1518662178486489118 # Điền ID kênh nhận log đơn hàng thành công vào đây
 BANK_NHAN_HANG = "ZaloPay" 
